@@ -8,7 +8,7 @@ namespace SQLiteTests
 {
   public class Tests : IDisposable
   {
-    //TODO 5PARE: add license key.
+    //TODO: add license key.
     private const string LicenseKey = "";
 
     public Tests()
