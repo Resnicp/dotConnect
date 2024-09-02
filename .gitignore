@@ -13,11 +13,6 @@ packages/
 _NCrunch_MainSW/
 .NCrunch_MainSW/
 
-# UI
-node_modules/
-src/Adapters/UI/UI.Client/wwwroot/css/app.css
-src/LiaisonXXL/wwwroot/css/app.css
-
 *.feature.cs
 _ReSharper.*
 *.user
@@ -37,20 +32,7 @@ nCrunchTemp_*
 *.g.cs
 *.cs.orig
 
-# temp directory on development PC
-/data/Temp
-/data/ImportExport
-# database directory on development PC
-/data/Database
-
 coverage.xml*
 AltCover*
-TestResults.xml
 **/cobertura.xml
-/data/RoutineDefinitions/*
-/data/RoutineResults/*
-data/ArchiveFiles/
-**/publish/
-data/Backups/*
-/data/FinishedJobs.txt
-/data/LiteDb
+
